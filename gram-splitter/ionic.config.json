@@ -1,0 +1,7 @@
+{
+  "name": "gram-splitter",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
