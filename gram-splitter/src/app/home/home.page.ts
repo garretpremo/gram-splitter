@@ -9,4 +9,11 @@ export class HomePage {
 
   constructor() {}
 
+  handleClickSwipeSplit() {
+    console.log("click swipe split");
+  }
+
+  handleClickGridSplit() {
+    console.log("click grid split");
+  }
 }
